@@ -1,0 +1,98 @@
+{
+  "brand": {
+    "name": "ILLUSORY MOMENTS",
+    "tagline": "Capturing Moments, Creating Memories",
+    "logo": "/logo.png",
+    "icon": "/icon.png"
+  },
+  "contact": {
+    "whatsapp": "+8801984794721",
+    "phone": "+8801984794721",
+    "phoneDisplay": "০১৭০০-০০০০০০",
+    "email": "hello@illusorymoments.com",
+    "address": "ঢাকা, বাংলাদেশ",
+    "hours": "প্রতিদিন সকাল ১০টা – রাত ৯টা"
+  },
+  "social": [
+    {
+      "platform": "facebook",
+      "url": "#"
+    },
+    {
+      "platform": "instagram",
+      "url": "#"
+    },
+    {
+      "platform": "youtube",
+      "url": "#"
+    }
+  ],
+  "nav": [
+    {
+      "label": "হোম",
+      "to": "/"
+    },
+    {
+      "label": "গ্যালারি",
+      "to": "/gallery"
+    },
+    {
+      "label": "প্যাকেজ",
+      "to": "/packages"
+    },
+    {
+      "label": "আমাদের টিম",
+      "to": "/team"
+    },
+    {
+      "label": "বুকিং",
+      "to": "/booking"
+    }
+  ],
+  "hero": {
+    "image": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1920&q=80",
+    "headline": [
+      "আপনার জীবনের সেরা মুহূর্ত,",
+      "আমাদের ফ্রেমে চিরস্মরণীয়।"
+    ],
+    "subtitle": "আপনার জীবনের সবথেকে বিশেষ মুহূর্তগুলোকে ফ্রেমে বন্দী করে চিরস্মরণীয় করে রাখাই আমাদের লক্ষ্য।"
+  },
+  "stats": [
+    {
+      "value": 48,
+      "suffix": "+",
+      "label": "সম্পন্ন ইভেন্ট"
+    },
+    {
+      "value": 5,
+      "suffix": "+",
+      "label": "বছরের অভিজ্ঞতা"
+    },
+    {
+      "value": 33,
+      "suffix": "+",
+      "label": "সিনেম্যাটিক ফিল্ম"
+    },
+    {
+      "value": 57,
+      "suffix": "%",
+      "label": "সন্তুষ্ট ক্লায়েন্ট"
+    }
+  ],
+  "booking": {
+    "eventTypes": [
+      "গায়ে হলুদ / মেহেদী",
+      "বিয়ে",
+      "বৌভাত",
+      "প্রি/পোস্ট ওয়েডিং শুট",
+      "ফুল কম্বো প্যাকেজ",
+      "অন্যান্য ইভেন্ট"
+    ],
+    "customPackageLabel": "কাস্টম প্যাকেজ (আলোচনা সাপেক্ষে)"
+  },
+  "cta": {
+    "title": "আপনার বিশেষ দিনের তারিখটি আজই নিশ্চিত করুন",
+    "text": "তারিখ ফাঁকা থাকতে থাকতেই বুকিং দিন। আমরা সরাসরি আপনার সাথে কথা বলব।",
+    "image": "https://images.unsplash.com/photo-1469371670807-013ccf25f16a?auto=format&fit=crop&w=1600&q=80"
+  }
+}

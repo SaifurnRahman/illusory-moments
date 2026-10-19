@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html { scroll-behavior: smooth; background: #000; }
+  /* Bangla needs generous line-height so matras are never clipped */
+  body { @apply bg-black font-body text-white/90 antialiased; line-height: 1.8; }
+  ::selection { background: #d4af37; color: #000; }
+  :focus-visible { outline: 2px solid #d4af37; outline-offset: 3px; }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; transition-duration: 0.01ms !important; } }
+}
+
+@layer components {
+  .btn-gold { @apply inline-flex items-center justify-center gap-2 rounded-sm bg-gradient-to-r from-gold to-gold-light px-7 py-3 font-semibold text-black transition hover:-translate-y-0.5 hover:shadow-[0_8px_30px_rgba(212,175,55,0.35)]; }
+  .btn-outline { @apply inline-flex items-center justify-center gap-2 rounded-sm border border-gold px-7 py-3 font-semibold text-gold transition hover:bg-gold hover:text-black; }
+  .field { @apply w-full rounded-sm border border-white/15 bg-ink-800 px-4 py-3 text-white placeholder-white/30 transition focus:border-gold focus:outline-none; }
+}

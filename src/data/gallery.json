@@ -1,0 +1,161 @@
+{
+  "categories": [
+    {
+      "id": "all",
+      "label": "সবগুলো"
+    },
+    {
+      "id": "wedding",
+      "label": "বিয়ে"
+    },
+    {
+      "id": "holud",
+      "label": "গায়ে হলুদ"
+    },
+    {
+      "id": "prewedding",
+      "label": "প্রি-ওয়েডিং"
+    },
+    {
+      "id": "cinematic",
+      "label": "সিনেম্যাটোগ্রাফি"
+    }
+  ],
+  "items": [
+    {
+      "id": "g1",
+      "type": "photo",
+      "category": "wedding",
+      "title": "তানভীর ও মাইশার বিয়ে",
+      "subtitle": "গ্র্যান্ড সুলতান রিসোর্ট, সিলেট",
+      "thumb": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?auto=format&fit=crop&w=800&q=80",
+      "src": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?auto=format&fit=crop&w=1600&q=80",
+      "aspect": "portrait",
+      "featured": true
+    },
+    {
+      "id": "g2",
+      "type": "photo",
+      "category": "holud",
+      "title": "রহিম ও ফারহানার গায়ে হলুদ",
+      "subtitle": "ঢাকা ক্লাব",
+      "thumb": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&w=800&q=80",
+      "src": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&w=1600&q=80",
+      "aspect": "landscape",
+      "featured": true
+    },
+    {
+      "id": "g3",
+      "type": "photo",
+      "category": "wedding",
+      "title": "আংটি বদলের মুহূর্ত",
+      "subtitle": "র‍্যাডিসন ব্লু, ঢাকা",
+      "thumb": "https://images.unsplash.com/photo-1606800052052-a08af7148866?auto=format&fit=crop&w=800&q=80",
+      "src": "https://images.unsplash.com/photo-1606800052052-a08af7148866?auto=format&fit=crop&w=1600&q=80",
+      "aspect": "square",
+      "featured": true
+    },
+    {
+      "id": "g4",
+      "type": "video",
+      "category": "cinematic",
+      "title": "সিনেম্যাটিক ওয়েডিং ফিল্ম",
+      "subtitle": "গ্র্যান্ড সুলতান রিসোর্ট, সিলেট",
+      "thumb": "https://images.unsplash.com/photo-1537633552985-df8429e8048b?auto=format&fit=crop&w=800&q=80",
+      "src": "https://images.unsplash.com/photo-1537633552985-df8429e8048b?auto=format&fit=crop&w=1600&q=80",
+      "aspect": "landscape",
+      "featured": true,
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+    },
+    {
+      "id": "g5",
+      "type": "photo",
+      "category": "prewedding",
+      "title": "প্রি-ওয়েডিং শুট",
+      "subtitle": "ভাওয়াল রিসোর্ট, গাজীপুর",
+      "thumb": "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?auto=format&fit=crop&w=800&q=80",
+      "src": "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?auto=format&fit=crop&w=1600&q=80",
+      "aspect": "portrait",
+      "featured": true
+    },
+    {
+      "id": "g6",
+      "type": "video",
+      "category": "cinematic",
+      "title": "রিসেপশন হাইলাইটস",
+      "subtitle": "র‍্যাডিসন ব্লু, ঢাকা",
+      "thumb": "https://images.unsplash.com/photo-1519225421980-715cb0215aed?auto=format&fit=crop&w=800&q=80",
+      "src": "https://images.unsplash.com/photo-1519225421980-715cb0215aed?auto=format&fit=crop&w=1600&q=80",
+      "aspect": "landscape",
+      "featured": true,
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+    },
+    {
+      "id": "g7",
+      "type": "photo",
+      "category": "wedding",
+      "title": "বর-কনের প্রথম দেখা",
+      "subtitle": "সেনাকুঞ্জ, ঢাকা",
+      "thumb": "https://images.unsplash.com/photo-1465495976277-4387d4b0b4c6?auto=format&fit=crop&w=800&q=80",
+      "src": "https://images.unsplash.com/photo-1465495976277-4387d4b0b4c6?auto=format&fit=crop&w=1600&q=80",
+      "aspect": "portrait",
+      "featured": false
+    },
+    {
+      "id": "g8",
+      "type": "photo",
+      "category": "wedding",
+      "title": "বিয়ের সাজসজ্জা",
+      "subtitle": "বসুন্ধরা কনভেনশন সেন্টার",
+      "thumb": "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=800&q=80",
+      "src": "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=1600&q=80",
+      "aspect": "landscape",
+      "featured": false
+    },
+    {
+      "id": "g9",
+      "type": "photo",
+      "category": "holud",
+      "title": "হলুদের রঙিন আয়োজন",
+      "subtitle": "উত্তরা, ঢাকা",
+      "thumb": "https://images.unsplash.com/photo-1523438885200-e635ba2c371e?auto=format&fit=crop&w=800&q=80",
+      "src": "https://images.unsplash.com/photo-1523438885200-e635ba2c371e?auto=format&fit=crop&w=1600&q=80",
+      "aspect": "square",
+      "featured": false
+    },
+    {
+      "id": "g10",
+      "type": "photo",
+      "category": "prewedding",
+      "title": "গোধূলির কাপল শুট",
+      "subtitle": "কক্সবাজার সমুদ্র সৈকত",
+      "thumb": "https://images.unsplash.com/photo-1520854221256-17451cc331bf?auto=format&fit=crop&w=800&q=80",
+      "src": "https://images.unsplash.com/photo-1520854221256-17451cc331bf?auto=format&fit=crop&w=1600&q=80",
+      "aspect": "portrait",
+      "featured": false
+    },
+    {
+      "id": "g11",
+      "type": "photo",
+      "category": "wedding",
+      "title": "ভ্যানুর সৌন্দর্য",
+      "subtitle": "গাজীপুর",
+      "thumb": "https://images.unsplash.com/photo-1469371670807-013ccf25f16a?auto=format&fit=crop&w=800&q=80",
+      "src": "https://images.unsplash.com/photo-1469371670807-013ccf25f16a?auto=format&fit=crop&w=1600&q=80",
+      "aspect": "landscape",
+      "featured": false
+    },
+    {
+      "id": "g12",
+      "type": "video",
+      "category": "cinematic",
+      "title": "ওয়েডিং টিজার",
+      "subtitle": "ঢাকা",
+      "thumb": "https://images.unsplash.com/photo-1529636798458-92182e662485?auto=format&fit=crop&w=800&q=80",
+      "src": "https://images.unsplash.com/photo-1529636798458-92182e662485?auto=format&fit=crop&w=1600&q=80",
+      "aspect": "landscape",
+      "featured": false,
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+    }
+  ]
+}
